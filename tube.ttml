@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" xml:id="p0" end="1.0s">Station Name,Ticket Zone,,Latitude,Longitude,</p>
+      <p begin="1.0s" xml:id="p1" end="2.0s">Acton Town,3,,N 51.502817347,W 00.280214656,</p>
+      <p begin="2.0s" xml:id="p2" end="3.0s">Aldgate ,1,,N 51.514342817,W 00.075600611,</p>
+      <p begin="3.0s" xml:id="p3" end="4.0s">Aldgate East ,1,,N 51.515300715,W 00.072274025,</p>
+      <p begin="4.0s" xml:id="p4" end="5.0s">Alperton ,4,,N 51.540757238,W 00.299447373,</p>
+      <p begin="5.0s" xml:id="p5" end="6.0s">Amersham ,9,,N 51.674200078,W 00.607416256,</p>
+      <p begin="6.0s" xml:id="p6" end="7.0s">Angel ,1,,N 51.532570565,W 00.105772295,</p>
+      <p begin="7.0s" xml:id="p7" end="8.0s">Archway ,2,,N 51.565495779,W 00.135099708,</p>
+      <p begin="8.0s" xml:id="p8" end="9.0s">Arnos Grove ,4,,N 51.616398898,W 00.133501198,</p>
+      <p begin="9.0s" xml:id="p9" end="10.0s">Arsenal ,2,,N 51.558561500,W 00.105746916,</p>
+      <p begin="10.0s" xml:id="p10" end="11.0s">Baker Street ,1,,N 51.523131159,W 00.156881847,</p>
+      <p begin="11.0s" xml:id="p11" end="12.0s">Balham ,3,,N 51.443404055,W 00.153182996,</p>
+      <p begin="12.0s" xml:id="p12" end="13.0s">Bank ,1,,N 51.513373502,W 00.088906725,</p>
+      <p begin="13.0s" xml:id="p13" end="14.0s">Barbican ,1,,N 51.520213415,W 00.097698591,</p>
+      <p begin="14.0s" xml:id="p14" end="15.0s">Barking ,4,,N 51.539520555,E 00.080855743,</p>
+      <p begin="15.0s" xml:id="p15" end="16.0s">Barkingside ,4,,N 51.585855444,E 00.088509189,</p>
+      <p begin="16.0s" xml:id="p16" end="17.0s">Barons Court ,2,,N 51.490227393,W 00.213576608,</p>
+      <p begin="17.0s" xml:id="p17" end="18.0s">Bayswater ,1,,N 51.512299747,W 00.188009447,</p>
+      <p begin="18.0s" xml:id="p18" end="19.0s">Becontree ,5,,N 51.540363533,E 00.127401050,</p>
+      <p begin="19.0s" xml:id="p19" end="20.0s">Belsize Park ,2,,N 51.550493839,W 00.164212238,</p>
+      <p begin="20.0s" xml:id="p20" end="21.0s">Bermondsey ,2,,N 51.498024522,W 00.063635613,</p>
+      <p begin="21.0s" xml:id="p21" end="22.0s">Bethnal Green ,2,,N 51.527267549,W 00.055423847,</p>
+      <p begin="22.0s" xml:id="p22" end="23.0s">Blackfriars ,1,,N 51.511562507,W 00.103596123,Temporarily closed for redevelopment</p>
+      <p begin="23.0s" xml:id="p23" end="24.0s">Blackhorse Road ,3,,N 51.587012708,W 00.040984391,</p>
+      <p begin="24.0s" xml:id="p24" end="25.0s">Bond Street ,1,,N 51.513879061,W 00.149315708,</p>
+      <p begin="25.0s" xml:id="p25" end="26.0s">Borough ,1,,N 51.501270700,W 00.093692651,</p>
+      <p begin="26.0s" xml:id="p26" end="27.0s">Boston Manor ,4,,N 51.495765550,W 00.324729543,</p>
+      <p begin="27.0s" xml:id="p27" end="28.0s">Bounds Green ,3,,N 51.607152312,W 00.124210461,</p>
+      <p begin="28.0s" xml:id="p28" end="29.0s">Bow Road ,2,,N 51.526866904,W 00.024809606,</p>
+      <p begin="29.0s" xml:id="p29" end="30.0s">Brent Cross ,3,,N 51.576860881,W 00.213428926,</p>
+      <p begin="30.0s" xml:id="p30" end="31.0s">Brixton ,2,,N 51.462653263,W 00.114611795,</p>
+      <p begin="31.0s" xml:id="p31" end="32.0s">Bromley By Bow ,2,,N 51.524842766,W 00.011657480,</p>
+      <p begin="32.0s" xml:id="p32" end="33.0s">Buckhurst Hill ,5,,N 51.626575799,E 00.046733076,</p>
+      <p begin="33.0s" xml:id="p33" end="34.0s">Burnt Oak ,4,,N 51.602738309,W 00.264170829,</p>
+      <p begin="34.0s" xml:id="p34" end="35.0s">Caledonian Road ,2,,N 51.548491331,W 00.118292408,</p>
+      <p begin="35.0s" xml:id="p35" end="36.0s">Camden Town ,2,,N 51.539468601,W 00.142709548,</p>
+      <p begin="36.0s" xml:id="p36" end="37.0s">Canada Water ,2,,N 51.497965204,W 00.049695892,</p>
+      <p begin="37.0s" xml:id="p37" end="38.0s">Canary Wharf ,2,,N 51.503623130,W 00.019426407,</p>
+      <p begin="38.0s" xml:id="p38" end="39.0s">Canning Town ,3,,N 51.513908219,E 00.008181999,</p>
+      <p begin="39.0s" xml:id="p39" end="40.0s">Cannon Street ,1,,N 51.511505842,W 00.090681195,</p>
+      <p begin="40.0s" xml:id="p40" end="41.0s">Canons Park ,5,,N 51.607820681,W 00.294618585,</p>
+      <p begin="41.0s" xml:id="p41" end="42.0s">Chalfont &amp; Latimer ,8,,N 51.668076304,W 00.560477729,</p>
+      <p begin="42.0s" xml:id="p42" end="43.0s">Chalk Farm ,2,,N 51.544151895,W 00.153701577,</p>
+      <p begin="43.0s" xml:id="p43" end="44.0s">Chancery Lane ,1,,N 51.518194371,W 00.111660401,</p>
+      <p begin="44.0s" xml:id="p44" end="45.0s">Charing Cross ,1,,N 51.508661338,W 00.124733426,</p>
+      <p begin="45.0s" xml:id="p45" end="46.0s">Chesham ,9,,N 51.705072763,W 00.611158209,</p>
+      <p begin="46.0s" xml:id="p46" end="47.0s">Chigwell ,4,,N 51.617931677,E 00.074523461,</p>
+      <p begin="47.0s" xml:id="p47" end="48.0s">Chiswick Park ,3,,N 51.494371103,W 00.267715593,</p>
+      <p begin="48.0s" xml:id="p48" end="49.0s">Chorleywood ,7,,N 51.654266956,W 00.518312173,</p>
+      <p begin="49.0s" xml:id="p49" end="50.0s">Clapham Common ,2,,N 51.461803357,W 00.138295129,</p>
+      <p begin="50.0s" xml:id="p50" end="51.0s">Clapham North ,2,,N 51.464923475,W 00.129515616,</p>
+      <p begin="51.0s" xml:id="p51" end="52.0s">Clapham South ,2,,N 51.452674157,W 00.147959970,</p>
+      <p begin="52.0s" xml:id="p52" end="53.0s">Cockfosters ,5,,N 51.651744780,W 00.149604351,</p>
+      <p begin="53.0s" xml:id="p53" end="54.0s">Colindale ,4,,N 51.595351419,W 00.250108975,</p>
+      <p begin="54.0s" xml:id="p54" end="55.0s">Colliers Wood ,3,,N 51.418149511,W 00.177678808,</p>
+      <p begin="55.0s" xml:id="p55" end="56.0s">Covent Garden ,1,,N 51.512979259,W 00.124146712,</p>
+      <p begin="56.0s" xml:id="p56" end="57.0s">Croxley ,7,,N 51.647103901,W 00.441669863,</p>
+      <p begin="57.0s" xml:id="p57" end="58.0s">Dagenham East ,5,,N 51.544187099,E 00.165864184,</p>
+      <p begin="58.0s" xml:id="p58" end="59.0s">Dagenham Heathway ,5,,N 51.541701213,E 00.147674142,</p>
+      <p begin="59.0s" xml:id="p59" end="60.0s">Debden ,6,,N 51.645494269,E 00.083832469,</p>
+      <p begin="60.0s" xml:id="p60" end="61.0s">Dollis Hill ,3,,N 51.551969462,W 00.238775764,</p>
+      <p begin="61.0s" xml:id="p61" end="62.0s">Ealing Broadway ,3,,N 51.514979099,W 00.301471777,</p>
+      <p begin="62.0s" xml:id="p62" end="63.0s">Ealing Common ,3,,N 51.510196802,W 00.288221583,</p>
+      <p begin="63.0s" xml:id="p63" end="64.0s">Earls Court ,1,,N 51.491876177,W 00.193526047,</p>
+      <p begin="64.0s" xml:id="p64" end="65.0s">East Acton ,2,,N 51.516648287,W 00.247481639,</p>
+      <p begin="65.0s" xml:id="p65" end="66.0s">East Finchley ,3,,N 51.587335007,W 00.164725648,</p>
+      <p begin="66.0s" xml:id="p66" end="67.0s">East Ham ,3,,N 51.538996697,E 00.051467145,</p>
+      <p begin="67.0s" xml:id="p67" end="68.0s">East Putney ,2,,N 51.458878826,W 00.210975744,</p>
+      <p begin="68.0s" xml:id="p68" end="69.0s">Eastcote ,5,,N 51.576553216,W 00.396806460,</p>
+      <p begin="69.0s" xml:id="p69" end="70.0s">Edgware ,5,,N 51.613684847,W 00.274946709,</p>
+      <p begin="70.0s" xml:id="p70" end="71.0s">Edgware Road (Bakerloo),1,,N 51.520250118,W 00.170106720,</p>
+      <p begin="71.0s" xml:id="p71" end="72.0s">&quot;Edgware Road (Circle, District, H &amp; C)&quot;,1,,N 51.519994068,W 00.167644928,</p>
+      <p begin="72.0s" xml:id="p72" end="73.0s">Elephant &amp; Castle ,1,,N 51.495847724,W 00.100711857,</p>
+      <p begin="73.0s" xml:id="p73" end="74.0s">Elm Park ,6,,N 51.549872773,E 00.199159843,</p>
+      <p begin="74.0s" xml:id="p74" end="75.0s">Embankment ,1,,N 51.507310119,W 00.122340604,</p>
+      <p begin="75.0s" xml:id="p75" end="76.0s">Epping ,6,,N 51.693689859,E 00.113845981,</p>
+      <p begin="76.0s" xml:id="p76" end="77.0s">Euston ,1,,N 51.528665946,W 00.133265016,</p>
+      <p begin="77.0s" xml:id="p77" end="78.0s">Euston Square ,1,,N 51.525626629,W 00.135824263,</p>
+      <p begin="78.0s" xml:id="p78" end="79.0s">Fairlop ,4,,N 51.595747808,E 00.090921024,</p>
+      <p begin="79.0s" xml:id="p79" end="80.0s">Farringdon ,1,,N 51.520517640,W 00.105050320,</p>
+      <p begin="80.0s" xml:id="p80" end="81.0s">Finchley Central ,4,,N 51.601039042,W 00.192428710,</p>
+      <p begin="81.0s" xml:id="p81" end="82.0s">Finchley Road ,2,,N 51.547132085,W 00.180473820,</p>
+      <p begin="82.0s" xml:id="p82" end="83.0s">Finsbury Park ,2,,N 51.564470950,W 00.106495674,</p>
+      <p begin="83.0s" xml:id="p83" end="84.0s">Fulham Broadway ,2,,N 51.480598681,W 00.194937978,</p>
+      <p begin="84.0s" xml:id="p84" end="85.0s">Gants Hill ,4,,N 51.576557097,E 00.066103646,</p>
+      <p begin="85.0s" xml:id="p85" end="86.0s">Gloucester Road ,1,,N 51.494312745,W 00.182960687,</p>
+      <p begin="86.0s" xml:id="p86" end="87.0s">Golders Green ,3,,N 51.572285858,W 00.193965660,</p>
+      <p begin="87.0s" xml:id="p87" end="88.0s">Goldhawk Road ,2,,N 51.502026467,W 00.226720989,</p>
+      <p begin="88.0s" xml:id="p88" end="89.0s">Goodge Street ,1,,N 51.520499085,W 00.134642741,</p>
+      <p begin="89.0s" xml:id="p89" end="90.0s">Grange Hill ,4,,N 51.613409710,E 00.092132915,</p>
+      <p begin="90.0s" xml:id="p90" end="91.0s">Great Portland Street ,1,,N 51.523789348,W 00.143930250,</p>
+      <p begin="91.0s" xml:id="p91" end="92.0s">Green Park ,1,,N 51.506918921,W 00.142899998,</p>
+      <p begin="92.0s" xml:id="p92" end="93.0s">Greenford ,4,,N 51.542361624,W 00.346412020,</p>
+      <p begin="93.0s" xml:id="p93" end="94.0s">Gunnersbury ,3,,N 51.491867355,W 00.275147144,</p>
+      <p begin="94.0s" xml:id="p94" end="95.0s">Hainault ,4,,N 51.603792541,E 00.093105998,</p>
+      <p begin="95.0s" xml:id="p95" end="96.0s">Hammersmith  (Circle),2,,N 51.492639704,W 00.222367633,</p>
+      <p begin="96.0s" xml:id="p96" end="97.0s">Hammersmith  (District &amp; Piccadilly),2,,N 51.493572715,W 00.224892685,</p>
+      <p begin="97.0s" xml:id="p97" end="98.0s">Hampstead ,2,,N 51.556754839,W 00.178202920,</p>
+      <p begin="98.0s" xml:id="p98" end="99.0s">Hanger Lane ,3,,N 51.530072876,W 00.292973103,</p>
+      <p begin="99.0s" xml:id="p99" end="100.0s">Harlesden ,3,,N 51.536255187,W 00.257476566,</p>
+      <p begin="100.0s" xml:id="p100" end="101.0s">Harrow &amp; Wealdstone ,5,,N 51.592263678,W 00.335193509,</p>
+      <p begin="101.0s" xml:id="p101" end="102.0s">Harrow On The Hill ,5,,N 51.579392732,W 00.336973212,</p>
+      <p begin="102.0s" xml:id="p102" end="103.0s">Hatton Cross ,5,,N 51.466685423,W 00.423356896,</p>
+      <p begin="103.0s" xml:id="p103" end="104.0s">&quot;Heathrow Airport Terminal 1, 2 &amp; 3 &quot;,6,,N 51.458624169,W 00.446006279,</p>
+      <p begin="104.0s" xml:id="p104" end="105.0s">Heathrow Terminal 4 ,6,,N 51.471290175,W 00.452385526,</p>
+      <p begin="105.0s" xml:id="p105" end="106.0s">Heathrow Terminal 5,6,,N 51.471593893,W 00.487913971,</p>
+      <p begin="106.0s" xml:id="p106" end="107.0s">Hendon Central ,3,,N 51.583358035,W 00.226465843,</p>
+      <p begin="107.0s" xml:id="p107" end="108.0s">High Barnet ,5,,N 51.650657954,W 00.194737478,</p>
+      <p begin="108.0s" xml:id="p108" end="109.0s">High Street Kensington ,1,,N 51.500745724,W 00.192480691,</p>
+      <p begin="109.0s" xml:id="p109" end="110.0s">Highbury &amp; Islington ,2,,N 51.546300742,W 00.103948483,</p>
+      <p begin="110.0s" xml:id="p110" end="111.0s">Highgate ,3,,N 51.577658850,W 00.146618543,</p>
+      <p begin="111.0s" xml:id="p111" end="112.0s">Hillingdon ,6,,N 51.553780278,W 00.449881290,</p>
+      <p begin="112.0s" xml:id="p112" end="113.0s">Holborn ,1,,N 51.517506300,W 00.119995446,</p>
+      <p begin="113.0s" xml:id="p113" end="114.0s">Holland Park ,2,,N 51.507404594,W 00.205705089,</p>
+      <p begin="114.0s" xml:id="p114" end="115.0s">Holloway Road ,2,,N 51.552821168,W 00.112913541,</p>
+      <p begin="115.0s" xml:id="p115" end="116.0s">Hornchurch ,6,,N 51.554072870,E 00.218999452,</p>
+      <p begin="116.0s" xml:id="p116" end="117.0s">Hounslow Central ,4,,N 51.471152208,W 00.366881823,</p>
+      <p begin="117.0s" xml:id="p117" end="118.0s">Hounslow East ,4,,N 51.473241130,W 00.356648626,</p>
+      <p begin="118.0s" xml:id="p118" end="119.0s">Hounslow West ,5,,N 51.473106027,W 00.385684911,</p>
+      <p begin="119.0s" xml:id="p119" end="120.0s">Hyde Park Corner ,1,,N 51.502828707,W 00.152730468,</p>
+      <p begin="120.0s" xml:id="p120" end="121.0s">Ickenham ,6,,N 51.562046398,W 00.441975598,</p>
+      <p begin="121.0s" xml:id="p121" end="122.0s">Kennington ,2,,N 51.488193706,W 00.105475190,</p>
+      <p begin="122.0s" xml:id="p122" end="123.0s">Kensal Green ,2,,N 51.530526498,W 00.224683208,</p>
+      <p begin="123.0s" xml:id="p123" end="124.0s">Kensington ( Olympia ) ,1,,N 51.497883187,W 00.210355325,</p>
+      <p begin="124.0s" xml:id="p124" end="125.0s">Kentish Town ,2,,N 51.550367969,W 00.140452418,</p>
+      <p begin="125.0s" xml:id="p125" end="126.0s">Kenton ,4,,N 51.581846365,W 00.317125399,</p>
+      <p begin="126.0s" xml:id="p126" end="127.0s">Kew Gardens ,3,,N 51.477097778,W 00.285212918,</p>
+      <p begin="127.0s" xml:id="p127" end="128.0s">Kilburn ,2,,N 51.546943685,W 00.204612104,</p>
+      <p begin="128.0s" xml:id="p128" end="129.0s">Kilburn Park ,2,,N 51.535139924,W 00.193943923,</p>
+      <p begin="129.0s" xml:id="p129" end="130.0s">King&#039;s Cross St Pancras,1,,N 51.530467020,W 00.123838556,</p>
+      <p begin="130.0s" xml:id="p130" end="131.0s">Kingsbury ,4,,N 51.584818808,W 00.278758866,</p>
+      <p begin="131.0s" xml:id="p131" end="132.0s">Knightsbridge ,1,,N 51.501619530,W 00.160476448,</p>
+      <p begin="132.0s" xml:id="p132" end="133.0s">Ladbroke Grove ,2,,N 51.517255223,W 00.210833786,</p>
+      <p begin="133.0s" xml:id="p133" end="134.0s">Lambeth North ,1,,N 51.499131086,W 00.111745717,</p>
+      <p begin="134.0s" xml:id="p134" end="135.0s">Lancaster Gate ,1,,N 51.511894768,W 00.175400817,</p>
+      <p begin="135.0s" xml:id="p135" end="136.0s">Latimer Road ,2,,N 51.513609630,W 00.217746133,</p>
+      <p begin="136.0s" xml:id="p136" end="137.0s">Leicester Square ,1,,N 51.511290786,W 00.128222550,</p>
+      <p begin="137.0s" xml:id="p137" end="138.0s">Leyton ,3,,N 51.556503397,W 00.005618740,</p>
+      <p begin="138.0s" xml:id="p138" end="139.0s">Leytonstone ,3,,N 51.568254279,E 00.008223901,</p>
+      <p begin="139.0s" xml:id="p139" end="140.0s">Liverpool Street ,1,,N 51.517421127,W 00.082958757,</p>
+      <p begin="140.0s" xml:id="p140" end="141.0s">London Bridge ,1,,N 51.505572080,W 00.086907553,</p>
+      <p begin="141.0s" xml:id="p141" end="142.0s">Loughton ,6,,N 51.641570622,E 00.055302636,</p>
+      <p begin="142.0s" xml:id="p142" end="143.0s">Maida Vale ,2,,N 51.529828870,W 00.185609035,</p>
+      <p begin="143.0s" xml:id="p143" end="144.0s">Manor House ,2,,N 51.570821904,W 00.095699338,</p>
+      <p begin="144.0s" xml:id="p144" end="145.0s">Mansion House ,1,,N 51.512094100,W 00.094171678,</p>
+      <p begin="145.0s" xml:id="p145" end="146.0s">Marble Arch ,1,,N 51.513610410,W 00.158415035,</p>
+      <p begin="146.0s" xml:id="p146" end="147.0s">Marylebone ,1,,N 51.522296752,W 00.163080891,</p>
+      <p begin="147.0s" xml:id="p147" end="148.0s">Mile End ,2,,N 51.525162272,W 00.033400538,</p>
+      <p begin="148.0s" xml:id="p148" end="149.0s">Mill Hill East ,4,,N 51.608322331,W 00.209873024,</p>
+      <p begin="149.0s" xml:id="p149" end="150.0s">Monument ,1,,N 51.510634491,W 00.086160710,</p>
+      <p begin="150.0s" xml:id="p150" end="151.0s">Moor Park ,6,,N 51.629790112,W 00.432617492,</p>
+      <p begin="151.0s" xml:id="p151" end="152.0s">Moorgate ,1,,N 51.518434153,W 00.088988842,</p>
+      <p begin="152.0s" xml:id="p152" end="153.0s">Morden ,4,,N 51.402413117,W 00.194767862,</p>
+      <p begin="153.0s" xml:id="p153" end="154.0s">Mornington Crescent ,2,,N 51.534278448,W 00.138821617,</p>
+      <p begin="154.0s" xml:id="p154" end="155.0s">Neasden ,3,,N 51.554031104,W 00.249760238,</p>
+      <p begin="155.0s" xml:id="p155" end="156.0s">Newbury Park ,4,,N 51.575639509,E 00.090329654,</p>
+      <p begin="156.0s" xml:id="p156" end="157.0s">North Acton ,2,,N 51.523436048,W 00.259700310,</p>
+      <p begin="157.0s" xml:id="p157" end="158.0s">North Ealing ,3,,N 51.517624754,W 00.288970664,</p>
+      <p begin="158.0s" xml:id="p158" end="159.0s">North Greenwich ,2,,N 51.500253938,E 00.003617380,</p>
+      <p begin="159.0s" xml:id="p159" end="160.0s">North Harrow ,5,,N 51.584853438,W 00.362187319,</p>
+      <p begin="160.0s" xml:id="p160" end="161.0s">North Wembley ,4,,N 51.562548968,W 00.304116057,</p>
+      <p begin="161.0s" xml:id="p161" end="162.0s">Northfields ,3,,N 51.499341967,W 00.314126947,</p>
+      <p begin="162.0s" xml:id="p162" end="163.0s">Northolt ,5,,N 51.548215120,W 00.368420431,</p>
+      <p begin="163.0s" xml:id="p163" end="164.0s">Northwick Park ,4,,N 51.578651178,W 00.318174443,</p>
+      <p begin="164.0s" xml:id="p164" end="165.0s">Northwood ,6,,N 51.611217965,W 00.423813419,</p>
+      <p begin="165.0s" xml:id="p165" end="166.0s">Northwood Hills ,6,,N 51.600549275,W 00.409262774,</p>
+      <p begin="166.0s" xml:id="p166" end="167.0s">Notting Hill Gate ,1,,N 51.509135067,W 00.196517879,</p>
+      <p begin="167.0s" xml:id="p167" end="168.0s">Oakwood ,5,,N 51.647643252,W 00.131828432,</p>
+      <p begin="168.0s" xml:id="p168" end="169.0s">Old Street ,1,,N 51.525673036,W 00.087540958,</p>
+      <p begin="169.0s" xml:id="p169" end="170.0s">Osterley ,4,,N 51.481001483,W 00.351955627,</p>
+      <p begin="170.0s" xml:id="p170" end="171.0s">Oval ,2,,N 51.482175453,W 00.112872504,</p>
+      <p begin="171.0s" xml:id="p171" end="172.0s">Oxford Circus ,1,,N 51.515198326,W 00.141753096,</p>
+      <p begin="172.0s" xml:id="p172" end="173.0s">Paddington ,1,,N 51.515378873,W 00.175365294,</p>
+      <p begin="173.0s" xml:id="p173" end="174.0s">Park Royal ,3,,N 51.526964839,W 00.284197489,</p>
+      <p begin="174.0s" xml:id="p174" end="175.0s">Parsons Green ,2,,N 51.475172662,W 00.201208748,</p>
+      <p begin="175.0s" xml:id="p175" end="176.0s">Perivale ,4,,N 51.536659128,W 00.323817282,</p>
+      <p begin="176.0s" xml:id="p176" end="177.0s">Piccadilly Circus ,1,,N 51.510101282,W 00.133994054,</p>
+      <p begin="177.0s" xml:id="p177" end="178.0s">Pimlico ,1,,N 51.489267016,W 00.133715860,</p>
+      <p begin="178.0s" xml:id="p178" end="179.0s">Pinner ,5,,N 51.592920216,W 00.380877555,</p>
+      <p begin="179.0s" xml:id="p179" end="180.0s">Plaistow ,3,,N 51.531286207,E 00.017807961,</p>
+      <p begin="180.0s" xml:id="p180" end="181.0s">Preston Road ,4,,N 51.572097704,W 00.295226402,</p>
+      <p begin="181.0s" xml:id="p181" end="182.0s">Putney Bridge ,2,,N 51.467978221,W 00.208948328,</p>
+      <p begin="182.0s" xml:id="p182" end="183.0s">Queens Park ,2,,N 51.534167072,W 00.204675391,</p>
+      <p begin="183.0s" xml:id="p183" end="184.0s">Queensbury ,4,,N 51.594408067,W 00.285756688,</p>
+      <p begin="184.0s" xml:id="p184" end="185.0s">Queensway ,1,,N 51.510453171,W 00.187402539,</p>
+      <p begin="185.0s" xml:id="p185" end="186.0s">Ravenscourt Park ,2,,N 51.494211265,W 00.236225664,</p>
+      <p begin="186.0s" xml:id="p186" end="187.0s">Rayners Lane ,5,,N 51.575039739,W 00.370959601,</p>
+      <p begin="187.0s" xml:id="p187" end="188.0s">Redbridge ,4,,N 51.576368336,E 00.045413423,</p>
+      <p begin="188.0s" xml:id="p188" end="189.0s">Regent&#039;s Park ,1,,N 51.523573745,W 00.146845189,</p>
+      <p begin="189.0s" xml:id="p189" end="190.0s">Richmond ,4,,N 51.463232128,W 00.301717924,</p>
+      <p begin="190.0s" xml:id="p190" end="191.0s">Rickmansworth ,7,,N 51.640327496,W 00.473664594,</p>
+      <p begin="191.0s" xml:id="p191" end="192.0s">Roding Valley ,4,,N 51.617179945,E 00.043856090,</p>
+      <p begin="192.0s" xml:id="p192" end="193.0s">Royal Oak ,2,,N 51.519090535,W 00.188212572,</p>
+      <p begin="193.0s" xml:id="p193" end="194.0s">Ruislip ,6,,N 51.571511893,W 00.421416905,</p>
+      <p begin="194.0s" xml:id="p194" end="195.0s">Ruislip Gardens ,5,,N 51.560651409,W 00.410993312,</p>
+      <p begin="195.0s" xml:id="p195" end="196.0s">Ruislip Manor ,6,,N 51.573246766,W 00.412305976,</p>
+      <p begin="196.0s" xml:id="p196" end="197.0s">Russell Square ,1,,N 51.522981488,W 00.124290511,</p>
+      <p begin="197.0s" xml:id="p197" end="198.0s">Seven Sisters ,3,,N 51.583414085,W 00.072478320,</p>
+      <p begin="198.0s" xml:id="p198" end="199.0s">Shepherd&#039;s Bush ,2,,N 51.504520582,W 00.218739321,</p>
+      <p begin="199.0s" xml:id="p199" end="200.0s">Shepherd&#039;s Bush Market,2,,N 51.505626762,W 00.226281420,</p>
+      <p begin="200.0s" xml:id="p200" end="201.0s">Sloane Square ,1,,N 51.492361608,W 00.156471428,</p>
+      <p begin="201.0s" xml:id="p201" end="202.0s">Snaresbrook ,4,,N 51.580893551,E 00.021492179,</p>
+      <p begin="202.0s" xml:id="p202" end="203.0s">South Ealing ,3,,N 51.501439579,W 00.306982297,</p>
+      <p begin="203.0s" xml:id="p203" end="204.0s">South Harrow ,5,,N 51.564742755,W 00.352171569,</p>
+      <p begin="204.0s" xml:id="p204" end="205.0s">South Kensington ,1,,N 51.494072248,W 00.173903021,</p>
+      <p begin="205.0s" xml:id="p205" end="206.0s">South Kenton ,4,,N 51.570231405,W 00.308554798,</p>
+      <p begin="206.0s" xml:id="p206" end="207.0s">South Ruislip ,5,,N 51.556575808,W 00.398609938,</p>
+      <p begin="207.0s" xml:id="p207" end="208.0s">South Wimbledon ,3,,N 51.415358688,W 00.191946864,</p>
+      <p begin="208.0s" xml:id="p208" end="209.0s">South Woodford ,4,,N 51.591793443,E 00.027321779,</p>
+      <p begin="209.0s" xml:id="p209" end="210.0s">Southfields ,3,,N 51.445005910,W 00.206514155,</p>
+      <p begin="210.0s" xml:id="p210" end="211.0s">Southgate ,4,,N 51.632375610,W 00.127741029,</p>
+      <p begin="211.0s" xml:id="p211" end="212.0s">Southwark ,1,,N 51.503912041,W 00.105079612,</p>
+      <p begin="212.0s" xml:id="p212" end="213.0s">St James&#039;s Park ,1,,N 51.499417081,W 00.134167037,</p>
+      <p begin="213.0s" xml:id="p213" end="214.0s">St John&#039;s Wood ,2,,N 51.534629498,W 00.174155402,</p>
+      <p begin="214.0s" xml:id="p214" end="215.0s">St Pauls&#039; ,1,,N 51.514875732,W 00.097559304,</p>
+      <p begin="215.0s" xml:id="p215" end="216.0s">Stamford Brook ,2,,N 51.494865328,W 00.245421899,</p>
+      <p begin="216.0s" xml:id="p216" end="217.0s">Stanmore ,5,,N 51.619673212,W 00.303078406,</p>
+      <p begin="217.0s" xml:id="p217" end="218.0s">Stepney Green ,2,,N 51.521979324,W 00.046455251,</p>
+      <p begin="218.0s" xml:id="p218" end="219.0s">Stockwell ,2,,N 51.472241139,W 00.122895213,</p>
+      <p begin="219.0s" xml:id="p219" end="220.0s">Stonebridge Park ,3,,N 51.543989547,W 00.275371113,</p>
+      <p begin="220.0s" xml:id="p220" end="221.0s">Stratford ,3,,N 51.541377658,W 00.003185389,</p>
+      <p begin="221.0s" xml:id="p221" end="222.0s">Sudbury Hill ,4,,N 51.557060075,W 00.336185424,</p>
+      <p begin="222.0s" xml:id="p222" end="223.0s">Sudbury Town ,4,,N 51.550846283,W 00.315443563,</p>
+      <p begin="223.0s" xml:id="p223" end="224.0s">Swiss Cottage ,2,,N 51.543382980,W 00.174736507,</p>
+      <p begin="224.0s" xml:id="p224" end="225.0s">Temple ,1,,N 51.511041845,W 00.113692896,</p>
+      <p begin="225.0s" xml:id="p225" end="226.0s">Theydon Bois ,6,,N 51.671773226,E 00.103118143,</p>
+      <p begin="226.0s" xml:id="p226" end="227.0s">Tooting Bec ,3,,N 51.435836121,W 00.159677894,</p>
+      <p begin="227.0s" xml:id="p227" end="228.0s">Tooting Broadway ,3,,N 51.427516012,W 00.167954323,</p>
+      <p begin="228.0s" xml:id="p228" end="229.0s">Tottenham Court Road ,1,,N 51.516276082,W 00.130856050,</p>
+      <p begin="229.0s" xml:id="p229" end="230.0s">Tottenham Hale ,3,,N 51.588112841,W 00.060276117,</p>
+      <p begin="230.0s" xml:id="p230" end="231.0s">Totteridge ,4,,N 51.630265127,W 00.179247175,</p>
+      <p begin="231.0s" xml:id="p231" end="232.0s">Tower Hill ,1,,N 51.510139104,W 00.076335576,</p>
+      <p begin="232.0s" xml:id="p232" end="233.0s">Tufnell Park ,2,,N 51.556736692,W 00.137907511,</p>
+      <p begin="233.0s" xml:id="p233" end="234.0s">Turnham Green ,2,,N 51.495185091,W 00.254500038,</p>
+      <p begin="234.0s" xml:id="p234" end="235.0s">Turnpike Lane ,3,,N 51.590364168,W 00.102786628,</p>
+      <p begin="235.0s" xml:id="p235" end="236.0s">Upminster ,6,,N 51.558959400,E 00.251068748,</p>
+      <p begin="236.0s" xml:id="p236" end="237.0s">Upminster Bridge ,6,,N 51.558822332,E 00.235751225,</p>
+      <p begin="237.0s" xml:id="p237" end="238.0s">Upney ,4,,N 51.538404215,E 00.101558788,</p>
+      <p begin="238.0s" xml:id="p238" end="239.0s">Upton Park ,3,,N 51.535300668,E 00.035269676,</p>
+      <p begin="239.0s" xml:id="p239" end="240.0s">Uxbridge ,6,,N 51.546558503,W 00.478086633,</p>
+      <p begin="240.0s" xml:id="p240" end="241.0s">Vauxhall ,1,,N 51.485802837,W 00.123728675,</p>
+      <p begin="241.0s" xml:id="p241" end="242.0s">Victoria ,1,,N 51.496415738,W 00.143828518,</p>
+      <p begin="242.0s" xml:id="p242" end="243.0s">Walthamstow Central ,3,,N 51.583022656,W 00.019910230,</p>
+      <p begin="243.0s" xml:id="p243" end="244.0s">Wanstead ,4,,N 51.575586046,E 00.028739769,</p>
+      <p begin="244.0s" xml:id="p244" end="245.0s">Warren Street ,1,,N 51.524582490,W 00.138254185,</p>
+      <p begin="245.0s" xml:id="p245" end="246.0s">Warwick Avenue ,2,,N 51.523345437,W 00.183649798,</p>
+      <p begin="246.0s" xml:id="p246" end="247.0s">Waterloo ,1,,N 51.503576438,W 00.114051784,</p>
+      <p begin="247.0s" xml:id="p247" end="248.0s">Watford ,7,,N 51.657472766,W 00.417233505,</p>
+      <p begin="248.0s" xml:id="p248" end="249.0s">Wembley Central ,4,,N 51.552393189,W 00.296820887,</p>
+      <p begin="249.0s" xml:id="p249" end="250.0s">Wembley Park ,4,,N 51.563321392,W 00.279220664,</p>
+      <p begin="250.0s" xml:id="p250" end="251.0s">West Acton ,3,,N 51.517928534,W 00.280959813,</p>
+      <p begin="251.0s" xml:id="p251" end="252.0s">West Brompton ,2,,N 51.487326810,W 00.195513643,</p>
+      <p begin="252.0s" xml:id="p252" end="253.0s">West Finchley ,4,,N 51.609549070,W 00.188445598,</p>
+      <p begin="253.0s" xml:id="p253" end="254.0s">West Ham ,3,,N 51.528257231,E 00.005040569,</p>
+      <p begin="254.0s" xml:id="p254" end="255.0s">West Hampstead ,2,,N 51.546770903,W 00.190729830,</p>
+      <p begin="255.0s" xml:id="p255" end="256.0s">West Harrow ,5,,N 51.579833961,W 00.352886823,</p>
+      <p begin="256.0s" xml:id="p256" end="257.0s">West Kensington ,2,,N 51.490565630,W 00.206454516,</p>
+      <p begin="257.0s" xml:id="p257" end="258.0s">West Ruislip ,6,,N 51.569591648,W 00.437840503,</p>
+      <p begin="258.0s" xml:id="p258" end="259.0s">Westbourne Park ,2,,N 51.520991060,W 00.200858000,</p>
+      <p begin="259.0s" xml:id="p259" end="260.0s">Westminster ,1,,N 51.501156967,W 00.124793827,</p>
+      <p begin="260.0s" xml:id="p260" end="261.0s">White City ,2,,N 51.512044211,W 00.224221914,</p>
+      <p begin="261.0s" xml:id="p261" end="262.0s">Whitechapel ,2,,N 51.519529261,W 00.059968492,</p>
+      <p begin="262.0s" xml:id="p262" end="263.0s">Willesden Green ,2,,N 51.549376909,W 00.222378339,</p>
+      <p begin="263.0s" xml:id="p263" end="264.0s">Willesden Junction ,2,,N 51.532259837,W 00.244259053,</p>
+      <p begin="264.0s" xml:id="p264" end="265.0s">Wimbledon ,3,,N 51.421464866,W 00.206353858,</p>
+      <p begin="265.0s" xml:id="p265" end="266.0s">Wimbledon Park ,3,,N 51.434538960,W 00.199572031,</p>
+      <p begin="266.0s" xml:id="p266" end="267.0s">Wood Green ,3,,N 51.597536265,W 00.109617731,</p>
+      <p begin="267.0s" xml:id="p267" end="268.0s">Wood Lane,2,,N 51.509958279,W 00.224245427,</p>
+      <p begin="268.0s" xml:id="p268" end="269.0s">Woodford ,4,,N 51.607093559,E 00.034027185,</p>
+      <p begin="269.0s" xml:id="p269" end="270.0s">Woodside Park ,4,,N 51.617872781,W 00.185394277,</p>
+      <p begin="270.0s" xml:id="p270" end="271.0s">General Notes,,,,,</p>
+      <p begin="271.0s" xml:id="p271" end="272.0s">Co-ordinates given for centre of the Ticket Hall,,,,,</p>
+      <p begin="272.0s" xml:id="p272" end="273.0s">X and Y co-ordinates are in the British National Grid OSGB36,,,,,</p>
+      <p begin="273.0s" xml:id="p273" end="274.0s">Latitude and Longitude on the World Geocentric System WGS84,,,,,</p>
+      <p begin="274.0s" xml:id="p274" end="275.0s">&quot;Data for stations owned by Network Rail eg Barking where LUL has running rights only, has been supplied by Network Rail&quot;,,,,,</p>
+      <p begin="275.0s" xml:id="p275" end="276.0s">&quot;Data will supplied free of charge, with no copyright restrictions&quot;,,,,,</p>
+      <p begin="276.0s" xml:id="p276" end="277.0s">&quot;Data is believed to be correct, but LUL can offer no warranty to this effect&quot;,,,,,</p>
+      <p begin="277.0s" xml:id="p277" end="278.0s">Data will be updated when errors and omissions are detected or when site conditions are altered,,,,,</p>
+      <p begin="278.0s" xml:id="p278" end="279.0s">Last update,,,,,</p>
+      <p begin="279.0s" xml:id="p279" end="280.0s">The following former London Underground Stations are closed and will re-open after refurbishment as London Overground Stations,,,,,</p>
+      <p begin="280.0s" xml:id="p280" end="281.0s">Station Name,Ticket Zone,,Latitude,Longitude,</p>
+      <p begin="281.0s" xml:id="p281" end="282.0s">New Cross ,2,,N 51.476751046,W 00.032590303,</p>
+      <p begin="282.0s" xml:id="p282" end="283.0s">New Cross Gate ,2,,N 51.475414325,W 00.040295968,</p>
+      <p begin="283.0s" xml:id="p283" end="284.0s">Rotherhithe ,2,,N 51.501080935,W 00.052167864,</p>
+      <p begin="284.0s" xml:id="p284" end="285.0s">Shadwell ,2,,N 51.511300305,W 00.056888282,</p>
+      <p begin="285.0s" xml:id="p285" end="286.0s">Shoreditch ,2,,N 51.522705981,W 00.070894399,</p>
+      <p begin="286.0s" xml:id="p286" end="287.0s">Shoreditch ,2,,N 51.522705981,W 00.070894399,</p>
+      <p begin="287.0s" xml:id="p287" end="288.0s">Surrey Quays ,2,,N 51.493266833,W 00.047503703,</p>
+      <p begin="288.0s" xml:id="p288" end="289.0s">Wapping ,2,,N 51.504341343,W 00.055831447,</p>
+    </div>
+  </body>
+</tt>

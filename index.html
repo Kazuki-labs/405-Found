@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Uber Global Hackathon</title>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAW6uop0Hsjat7YxpCNMYhNZDQ-OTH17mM&callback=initMap&libraries=places" async defer></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Sustainable Transportation Routing</h1>
+  <h2>by 405-Found</h2>
+  <!-- Create a search input box for entering a place name -->
+  <input type="text" id="searchInput" placeholder="Search for destination" />
+  <input type="submit" name="submit" id="searchButton" value="Search" />
+  <input type="submit" name="submit" id="showBikePointsButton" value="Show Bike Points" />
+  <input type="submit" name="submit" id="showBusLocationsButton" value="Show Bus Locations" />
+  <input type="submit" name="submit" id="showTubeLocationsButton" value="Show Tube" />
+  <!-- Create a container for the map -->
+ 	<div id="map"></div>
+	<div id="distanceContainer">
+  	
+	<p id="distanceText">Distance to destination: </p>
+</div>
+
+</body>
+</html>
