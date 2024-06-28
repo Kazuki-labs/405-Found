@@ -4,7 +4,7 @@ const { google } = require('googleapis');
 // Initialize  Google Maps Directions API client
 const googleMapsClient = google.maps({
   version: '3',
-  auth: 'AIzaSyAW6uop0Hsjat7YxpCNMYhNZDQ-OTH17mM',
+  auth: 'API-KEY GOES HERE',
 });
 
 // Define different modes of transportation
